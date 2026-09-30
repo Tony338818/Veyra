@@ -3,3 +3,6 @@
 
 # environment variables
 .env
+
+# project specs
+project_spec.md
